@@ -1,4 +1,4 @@
-Hi, I am the creator of the http://soukupsoft.clanweb.eu website.
+Hi, I am the creator of the http://soukupsoft.is-great.net website.
 
 What you *can* do:
 - look at my repos
