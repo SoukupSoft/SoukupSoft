@@ -7,4 +7,4 @@ What you *can* do:
 
 What you *shouldn't* do:
 - replicate this account/any of the repos (you *can* fork the repos by using the dedicated command)
-- update the files (send them via mail, please)
+- update the files (send them to the inbox mentioned above, please)
