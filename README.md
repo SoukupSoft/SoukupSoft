@@ -1,10 +1,17 @@
-Hi, I am the creator of the http://soukupsoft.is-great.net website.
+**NOTE: This isn't complete. If you find anything that doesn't quite make sense, be sure to [report it](mailto:soukupsoft@gmail.com).**
 
-What you *can* do:
-- look at my repos
-- help me with coding by testing the code
-- use my techniques for your repos (I can help you via mail, just email me to soukupsoft@gmail.com)
+Hi. I'm SoukupSoft, the creator of the http://soukupsoft.is-great.net website, and a big tech fan.
 
-What you *shouldn't* do:
-- replicate this account/any of the repos (you *can* fork the repos by using the dedicated command)
-- update the files (send them to the inbox mentioned above, please)
+| How do I contribute?
+Please **do**:
+- look around
+- help me by testing code in repos
+- learn from any repos you're interested in
+- contribute (if you can)
+
+Please **don't**:
+- violate GitHub's ToS
+- impersonate me
+- use any code (or portions of it) from my repos for malicious purposes
+
+| More will come in the future. In the meantime, share the love for technologies of various shapes and forms. Hope you find what you are looking for here!
